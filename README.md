@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/D6cOfMg.png">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/brianandresserna)
 
 ## Sobre mí
 
